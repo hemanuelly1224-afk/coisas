@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+.color {
+
+    h1 {
+        color: rgb(230, 151, 62);
+    }
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+footer a {
+color: #d69f4d;
+text-decoration: none;
+}
+
+header img {
+    border-radius: 50%;
+    height: 520px;
+color: #d69f4d;
+    border: 2px solid ;
+}

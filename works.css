@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+}
+
+h1 {
+    color:rgb(224, 172, 105)
+}
+
+header img {
+    width: 300px;
+    height: 310px;
+    border-radius: 50%;
+    padding: 60px;
+}
+
+.center {
+    text-align: center;
+}
+
+.center h3 {
+    margin-top: -50px;
+    color: rgb(233, 176, 91);
+}
+
+.conteiner {
+  padding: 10px 60px; 
+}
